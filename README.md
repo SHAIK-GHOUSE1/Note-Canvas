@@ -146,15 +146,4 @@ Note Canvas/
 
 ---
 
-## 🗺️ Roadmap & Upcoming Milestones
 
-- [ ] **Smart Note Hub**: Dual-pane split view combining drawings and markdown sticky notes.
-- [ ] **Cloud Sync & Collaboration**: Real-time multi-user canvas via WebSockets / WebRTC.
-- [ ] **Touch Gesture Enhancements**: Multi-touch pinch-to-zoom and two-finger pan gestures for tablets.
-- [ ] **SVG Export**: Vector path export for infinite lossless scalability.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to customize and expand it for personal or commercial projects.
